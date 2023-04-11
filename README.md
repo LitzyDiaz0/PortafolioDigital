@@ -28,6 +28,8 @@ Contacto:
 
 ![Contacto](imagenes/readme/screenshot5.png)
 
+Vist de la pagina web
+
 ## Tecnologías
 
 Esta página web fue creada con:
@@ -42,6 +44,8 @@ Además, se incluyeron **Google Fonts** para personalizar la fuente y **Bootstra
 ## Español
 
 El texto de la página web está escrito en español, al igual que las clases y atributos personalizados. Las clases relacionadas con Bootstrap se incluyeron en inglés.
+
+##Visualizar el portafolio Digital: https://starlit-piroshki-bd8e25.netlify.app/
 
 
 
